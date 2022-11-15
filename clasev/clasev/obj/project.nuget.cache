@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lVlhOXku4rRuHupgfwTVSv2LWUmaDHAyc4VXyHL0fhZqcvU5TX7LG6kO54eDCCKflrMPqOKZStVt7DtiCREdQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\clasev\\clasev\\clasev.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\antlr4.runtime.standard\\4.9.2\\antlr4.runtime.standard.4.9.2.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

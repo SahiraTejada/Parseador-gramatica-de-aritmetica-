@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\clasev\clasev\clasev\bin\Debug\netcoreapp3.1\clasev.exe
+C:\Users\HP\Desktop\clasev\clasev\clasev\bin\Debug\netcoreapp3.1\clasev.deps.json
+C:\Users\HP\Desktop\clasev\clasev\clasev\bin\Debug\netcoreapp3.1\clasev.runtimeconfig.json
+C:\Users\HP\Desktop\clasev\clasev\clasev\bin\Debug\netcoreapp3.1\clasev.runtimeconfig.dev.json
+C:\Users\HP\Desktop\clasev\clasev\clasev\bin\Debug\netcoreapp3.1\clasev.dll
+C:\Users\HP\Desktop\clasev\clasev\clasev\bin\Debug\netcoreapp3.1\clasev.pdb
+C:\Users\HP\Desktop\clasev\clasev\clasev\bin\Debug\netcoreapp3.1\Antlr4.Runtime.Standard.dll
+C:\Users\HP\Desktop\clasev\clasev\clasev\obj\Debug\netcoreapp3.1\clasev.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\clasev\clasev\clasev\obj\Debug\netcoreapp3.1\clasev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\clasev\clasev\clasev\obj\Debug\netcoreapp3.1\clasev.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\clasev\clasev\clasev\obj\Debug\netcoreapp3.1\clasev.AssemblyInfo.cs
+C:\Users\HP\Desktop\clasev\clasev\clasev\obj\Debug\netcoreapp3.1\clasev.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\clasev\clasev\clasev\obj\Debug\netcoreapp3.1\clasev.csproj.CopyComplete
+C:\Users\HP\Desktop\clasev\clasev\clasev\obj\Debug\netcoreapp3.1\clasev.dll
+C:\Users\HP\Desktop\clasev\clasev\clasev\obj\Debug\netcoreapp3.1\clasev.pdb
+C:\Users\HP\Desktop\clasev\clasev\clasev\obj\Debug\netcoreapp3.1\clasev.genruntimeconfig.cache
